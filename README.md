@@ -1,5 +1,5 @@
 # db.henon-
-Recursive algorithm oscillator for max msp
+Recursive algorithm oscillator for max msp. The first thing I coded for Max, to learn the API. The first thing I coded in C that wasn't just a learning exercise
 
 First github project and 2nd C coding project
 
